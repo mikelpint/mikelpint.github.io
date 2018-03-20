@@ -11,7 +11,7 @@ You can see the full page at [this website](https://mikelpint.github.io/reposito
 
 - <p style="color:#4EBA6F;display:inline;">Green:</p><p style="display:inline;">in active development.</p>
 - <p style="color:#F0C419;display:inline;">Yellow:</p><p style="display:inline;">outdated.</p>
-- <p style="color:#F15A5A;display:inline;">Red:</p><p style="display:inline;">no longer maintained by my or abandoned.</p>
+- <p style="color:#F15A5A;display:inline;">Red:</p><p style="display:inline;">no longer maintained by me or abandoned.</p>
 <br>
 
 - <p style="color:#F15A5A;display:inline;">github-desktop</p>
