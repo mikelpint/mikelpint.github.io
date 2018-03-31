@@ -4,6 +4,7 @@ title: Como crear un USB multiboot usando GRUB
 img: gnulinux.png
 date: 2017-08-22 13:35:00 +200
 tags: Tutorials
+comments: true
 ---
 
 En este tutorial aprenderás a crear un USB con el que poder iniciar varias distribuciones GNU/Linux. Sirve para sistemas de 64 y de 32 bits y para sistemas con UEFI o BIOS. También podremos guardar datos en el USB.
